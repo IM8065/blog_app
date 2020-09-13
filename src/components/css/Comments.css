@@ -1,0 +1,25 @@
+.comment {
+  background: #c1c1c1;
+  border-top: 1px solid teal;
+}
+.profile-image-container {
+  width: 40px;
+  height: 40px;
+  border: 2px solid black;
+  border-radius: 50%;
+  margin: 10px;
+}
+.profile-image {
+  width: 40px;
+  height: 40px;
+}
+
+.profile-content {
+  width: 300px;
+  display: flex;
+}
+
+.comment-content {
+  text-align: start;
+  margin: 10px;
+}

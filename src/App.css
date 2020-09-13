@@ -28,6 +28,29 @@
   color: #61dafb;
 }
 
+.create {
+  margin-top: 100px;
+}
+
+.create-btns {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.create-btn {
+  margin: 10px;
+  width: 40%;
+  height: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #fff;
+  background-color: black;
+  border: none;
+  cursor: pointer;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
